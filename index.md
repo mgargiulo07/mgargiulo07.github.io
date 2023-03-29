@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Natural Language Processing for Climate Disclosures
 
-[Project 1 Title](/sample_page)
+[CDP, formerly known as Carbon Disclosure Project, provides the premier framework for both cities and corporations to disclose environmental and social data, metrics, targets, and initiatives. In this project, I combine KMeans clustering and NLP to analyze city disclosure data from the United States.](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
