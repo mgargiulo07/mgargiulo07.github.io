@@ -18,7 +18,8 @@ The Great British Baking Show, widely conisdered one of the best reality t.v sho
 
 <img src="images/Feature_Reduction_Capstone_2.png?raw=true"/>
 
-#### [Full Report](https://github.com/mgargiulo07/Springboard-Data-Science-Course/blob/master/Capstone_Projects/Capstone_2/Final%20Report/Final_Report.pdf)
+#### Read the Full Report Here
+[Full Report](https://github.com/mgargiulo07/Springboard-Data-Science-Course/blob/master/Capstone_Projects/Capstone_2/Final%20Report/Final_Report.pdf)
 
 
 
