@@ -12,11 +12,11 @@ The Great British Baking Show, widely conisdered one of the best reality t.v sho
 
 ## Figure 1: Does the Baker Who Accumulates the Most Star Baker Awards Win the Season?
 
-<img src="Star_Bakers_Capstone_2.png?raw=true"/>
+<img src="images/Star_Bakers_Capstone_2.png?raw=true"/>
 
 ## Figure 2: Feature Reduction on Categorical, Text, and Numerical Features
 
-<img src="Feature_Reduction_Capstone_2.png?raw=true"/>
+<img src="images/Feature_Reduction_Capstone_2.png?raw=true"/>
 
 
 
