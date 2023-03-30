@@ -10,14 +10,15 @@ CDP, formerly known as Carbon Disclosure Project, provides the premier framework
 ### Predicting the Winner for the Great British Baking Show
 The Great British Baking Show, widely conisdered one of the best reality t.v shows, sees amateur bakers battling it out in the kitchen whipping up delicious bakes in order to impress the two judges, Paul Hollywood and Prue Leith. Each week has a different theme, requiring the bakers to be versatile in their skill set, including, but not limited to, knowledge on how to make cakes, biscuits, vegan desserts, tarts, and much more! In the project, I analyze eight machine learning models, four class rebalancing techniques, and two feature elimination methods to best predict what features are most important to winning star baker!
 
-## Figure 1: Does the Baker Who Accumulates the Most Star Baker Awards Win the Season?
+#### Figure 1: Does the Baker Who Accumulates the Most Star Baker Awards Win the Season?
 
 <img src="images/Star_Bakers_Capstone_2.png?raw=true"/>
 
-## Figure 2: Feature Reduction on Categorical, Text, and Numerical Features
+#### Figure 2: Feature Reduction on Categorical, Text, and Numerical Features
 
 <img src="images/Feature_Reduction_Capstone_2.png?raw=true"/>
 
+#### [Full Report](https://github.com/mgargiulo07/Springboard-Data-Science-Course/blob/master/Capstone_Projects/Capstone_2/Final%20Report/Final_Report.pdf)
 
 
 
